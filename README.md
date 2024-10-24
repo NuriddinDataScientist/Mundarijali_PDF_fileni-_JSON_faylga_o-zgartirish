@@ -1,6 +1,6 @@
-BU dastur orqali mundarijalari faylning bosh qismida keladigan pdf fayllarini JSON formatiga aylantirish mumkin.
+ Main fayli ichidagi kod orqali mundarijalari faylning bosh qismida keladigan pdf fayllarini JSON formatiga aylantirish mumkin.
 
-dasturdan foydalanishingiz uchun kerak bo'ladigan kutubxonalar:
+Kod ishlashi  uchun kerak bo'ladigan kutubxonalar:
 
 pip install pymupdf
   
